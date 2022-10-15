@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.exe
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.deps.json
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.runtimeconfig.json
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.dll
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\bin\Debug\net6.0\TheDefenseOfConsolas.pdb
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.dll
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\refint\TheDefenseOfConsolas.dll
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.pdb
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\TheDefenseOfConsolas.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\08_Console2.0\TheDefenseOfConsolas\obj\Debug\net6.0\ref\TheDefenseOfConsolas.dll
