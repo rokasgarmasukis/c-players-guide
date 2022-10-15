@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.exe
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.deps.json
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.runtimeconfig.json
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.dll
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.pdb
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.dll
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\refint\TheMagicCannon.dll
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.pdb
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\11_Looping\TheMagicCannon\obj\Debug\net6.0\ref\TheMagicCannon.dll

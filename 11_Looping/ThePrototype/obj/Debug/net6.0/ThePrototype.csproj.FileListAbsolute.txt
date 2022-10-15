@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.exe
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.deps.json
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.runtimeconfig.json
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.dll
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\bin\Debug\net6.0\ThePrototype.pdb
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.dll
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\refint\ThePrototype.dll
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.pdb
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ThePrototype.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\11_Looping\ThePrototype\obj\Debug\net6.0\ref\ThePrototype.dll
