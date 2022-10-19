@@ -11,7 +11,12 @@ Player player2 = new Player();
 
 Board board = new Board();
 
-board.DisplayBoard(player1, player2);
+board.Display(player1, player2);
+
+Console.Write("Where do you want to place? ");
+int choice = Convert.ToInt32(Console.ReadLine());
+board.Update(choice, 1);
+board.Display(player1, player2);
 
 
 
@@ -37,7 +42,7 @@ public class Board
         }
     }
 
-    public void DisplayBoard(Player playerOne, Player PlayerTwo)
+    public void Display(Player playerOne, Player PlayerTwo)
     {
         Console.WriteLine($"It is {(playerOne.IsTurn ? "One" : "Two" )} turn.");
         Console.WriteLine($" {Cells[0].ShowCell()} | {Cells[1].ShowCell()} | {Cells[2].ShowCell()} ");
@@ -45,6 +50,12 @@ public class Board
         Console.WriteLine($" {Cells[3].ShowCell()} | {Cells[4].ShowCell()} | {Cells[5].ShowCell()} ");
         Console.WriteLine("---+---+---");
         Console.WriteLine($" {Cells[6].ShowCell()} | {Cells[7].ShowCell()} | {Cells[8].ShowCell()} ");
+    }
+
+    public void Update(int number, int player)
+    {
+        if (player == 1) Cells[number - 1].Type = CellType.Player1;
+        else if (player == 2) Cells[number - 1].Type = CellType.Player2;
     }
 }
 
