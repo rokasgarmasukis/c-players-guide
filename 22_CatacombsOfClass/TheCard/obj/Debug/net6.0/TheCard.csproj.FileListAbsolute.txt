@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\bin\Debug\net6.0\TheCard.exe
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\bin\Debug\net6.0\TheCard.deps.json
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\bin\Debug\net6.0\TheCard.runtimeconfig.json
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\bin\Debug\net6.0\TheCard.dll
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\bin\Debug\net6.0\TheCard.pdb
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\TheCard.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\TheCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\TheCard.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\TheCard.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\TheCard.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\TheCard.dll
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\refint\TheCard.dll
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\TheCard.pdb
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\TheCard.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\22_CatacombsOfClass\TheCard\obj\Debug\net6.0\ref\TheCard.dll
