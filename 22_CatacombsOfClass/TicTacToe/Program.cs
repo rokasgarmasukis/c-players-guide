@@ -2,12 +2,6 @@
 
 Console.Title = "Tic-Tac-Toe";
 
-// generate new board
-// loop:
-//     receive input from player 1
-//     receive input from player 2
-//     eval
-
 Board board = new Board();
 Player player1 = Player.Player1;
 Player player2 = Player.Player2;
@@ -28,8 +22,6 @@ while (true)
     }
     currentPlayer = currentPlayer == player1 ? player2 : player1;
 }
-
-
 
 public class Board
 {

@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.exe
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.deps.json
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.runtimeconfig.json
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.dll
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.pdb
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.dll
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\refint\TheFountainOfObjects.dll
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.pdb
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\31_FountainOfObjects\TheFountainOfObjects\obj\Debug\net6.0\ref\TheFountainOfObjects.dll
