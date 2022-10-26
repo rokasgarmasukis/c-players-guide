@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\bin\Debug\net6.0\TheOldRobot.exe
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\bin\Debug\net6.0\TheOldRobot.deps.json
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\bin\Debug\net6.0\TheOldRobot.runtimeconfig.json
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\bin\Debug\net6.0\TheOldRobot.dll
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\bin\Debug\net6.0\TheOldRobot.pdb
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\TheOldRobot.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\TheOldRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\TheOldRobot.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\TheOldRobot.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\TheOldRobot.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\TheOldRobot.dll
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\refint\TheOldRobot.dll
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\TheOldRobot.pdb
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\TheOldRobot.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\26_Polymorphism\TheOldRobot\obj\Debug\net6.0\ref\TheOldRobot.dll

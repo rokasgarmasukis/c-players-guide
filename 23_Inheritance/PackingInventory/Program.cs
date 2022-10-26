@@ -96,11 +96,14 @@ class InventoryItem
 class Arrow : InventoryItem
 {
     public Arrow() : base(0.1, 0.05) { }
+
+    public override String ToString() => "Rope";
 }
 
 class Bow : InventoryItem
 {
     public Bow() : base(1, 4) { }
+    public override String ToString() => "Bow";
 }
 
 class Rope : InventoryItem
