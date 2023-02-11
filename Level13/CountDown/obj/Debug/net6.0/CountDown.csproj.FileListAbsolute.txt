@@ -1,0 +1,15 @@
+C:\code\c-players-guide\Level13\CountDown\bin\Debug\net6.0\CountDown.exe
+C:\code\c-players-guide\Level13\CountDown\bin\Debug\net6.0\CountDown.deps.json
+C:\code\c-players-guide\Level13\CountDown\bin\Debug\net6.0\CountDown.runtimeconfig.json
+C:\code\c-players-guide\Level13\CountDown\bin\Debug\net6.0\CountDown.dll
+C:\code\c-players-guide\Level13\CountDown\bin\Debug\net6.0\CountDown.pdb
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\CountDown.csproj.AssemblyReference.cache
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\CountDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\CountDown.AssemblyInfoInputs.cache
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\CountDown.AssemblyInfo.cs
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\CountDown.csproj.CoreCompileInputs.cache
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\CountDown.dll
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\refint\CountDown.dll
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\CountDown.pdb
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\CountDown.genruntimeconfig.cache
+C:\code\c-players-guide\Level13\CountDown\obj\Debug\net6.0\ref\CountDown.dll
