@@ -1,0 +1,15 @@
+C:\code\c-players-guide\Level12\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.exe
+C:\code\c-players-guide\Level12\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.deps.json
+C:\code\c-players-guide\Level12\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.runtimeconfig.json
+C:\code\c-players-guide\Level12\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.dll
+C:\code\c-players-guide\Level12\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.pdb
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.csproj.AssemblyReference.cache
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.AssemblyInfoInputs.cache
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.AssemblyInfo.cs
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.csproj.CoreCompileInputs.cache
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.dll
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\refint\TheLawsOfFreach.dll
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.pdb
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.genruntimeconfig.cache
+C:\code\c-players-guide\Level12\TheLawsOfFreach\obj\Debug\net6.0\ref\TheLawsOfFreach.dll

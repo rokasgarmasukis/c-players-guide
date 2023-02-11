@@ -1,0 +1,15 @@
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.exe
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.deps.json
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.runtimeconfig.json
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.dll
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\bin\Debug\net6.0\TheReplicatorOfDTo.pdb
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.csproj.AssemblyReference.cache
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.AssemblyInfoInputs.cache
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.AssemblyInfo.cs
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.dll
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\refint\TheReplicatorOfDTo.dll
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.pdb
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\TheReplicatorOfDTo.genruntimeconfig.cache
+C:\code\c-players-guide\Level12\TheReplicatorOfDTo\obj\Debug\net6.0\ref\TheReplicatorOfDTo.dll
