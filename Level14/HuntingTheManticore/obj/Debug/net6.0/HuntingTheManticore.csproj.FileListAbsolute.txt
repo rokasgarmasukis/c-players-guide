@@ -1,0 +1,15 @@
+C:\code\c-players-guide\Level14\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.exe
+C:\code\c-players-guide\Level14\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.deps.json
+C:\code\c-players-guide\Level14\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.runtimeconfig.json
+C:\code\c-players-guide\Level14\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.dll
+C:\code\c-players-guide\Level14\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.pdb
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.csproj.AssemblyReference.cache
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.AssemblyInfoInputs.cache
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.AssemblyInfo.cs
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.csproj.CoreCompileInputs.cache
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.dll
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\refint\HuntingTheManticore.dll
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.pdb
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.genruntimeconfig.cache
+C:\code\c-players-guide\Level14\HuntingTheManticore\obj\Debug\net6.0\ref\HuntingTheManticore.dll
