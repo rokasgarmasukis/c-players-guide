@@ -1,0 +1,15 @@
+C:\code\c-players-guide\Level16\SimulasTest\bin\Debug\net6.0\SimulasTest.exe
+C:\code\c-players-guide\Level16\SimulasTest\bin\Debug\net6.0\SimulasTest.deps.json
+C:\code\c-players-guide\Level16\SimulasTest\bin\Debug\net6.0\SimulasTest.runtimeconfig.json
+C:\code\c-players-guide\Level16\SimulasTest\bin\Debug\net6.0\SimulasTest.dll
+C:\code\c-players-guide\Level16\SimulasTest\bin\Debug\net6.0\SimulasTest.pdb
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\SimulasTest.csproj.AssemblyReference.cache
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\SimulasTest.AssemblyInfoInputs.cache
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\SimulasTest.AssemblyInfo.cs
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\SimulasTest.csproj.CoreCompileInputs.cache
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\SimulasTest.dll
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\refint\SimulasTest.dll
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\SimulasTest.pdb
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\SimulasTest.genruntimeconfig.cache
+C:\code\c-players-guide\Level16\SimulasTest\obj\Debug\net6.0\ref\SimulasTest.dll
