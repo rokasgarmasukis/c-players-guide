@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\bin\Debug\net7.0\VinsTrouble.exe
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\bin\Debug\net7.0\VinsTrouble.deps.json
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\bin\Debug\net7.0\VinsTrouble.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\bin\Debug\net7.0\VinsTrouble.dll
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\bin\Debug\net7.0\VinsTrouble.pdb
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\VinsTrouble.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\VinsTrouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\VinsTrouble.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\VinsTrouble.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\VinsTrouble.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\VinsTrouble.dll
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\refint\VinsTrouble.dll
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\VinsTrouble.pdb
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\VinsTrouble.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level19\VinsTrouble\obj\Debug\net7.0\ref\VinsTrouble.dll
