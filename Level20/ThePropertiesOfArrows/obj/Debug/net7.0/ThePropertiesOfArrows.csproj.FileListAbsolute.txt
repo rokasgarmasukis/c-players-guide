@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\bin\Debug\net7.0\ThePropertiesOfArrows.exe
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\bin\Debug\net7.0\ThePropertiesOfArrows.deps.json
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\bin\Debug\net7.0\ThePropertiesOfArrows.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\bin\Debug\net7.0\ThePropertiesOfArrows.dll
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\bin\Debug\net7.0\ThePropertiesOfArrows.pdb
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ThePropertiesOfArrows.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ThePropertiesOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ThePropertiesOfArrows.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ThePropertiesOfArrows.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ThePropertiesOfArrows.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ThePropertiesOfArrows.dll
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\refint\ThePropertiesOfArrows.dll
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ThePropertiesOfArrows.pdb
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ThePropertiesOfArrows.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level20\ThePropertiesOfArrows\obj\Debug\net7.0\ref\ThePropertiesOfArrows.dll
