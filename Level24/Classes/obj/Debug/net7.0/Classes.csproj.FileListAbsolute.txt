@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level24\Classes\bin\Debug\net7.0\Classes.exe
+C:\Code\C#PlayersGuide\Level24\Classes\bin\Debug\net7.0\Classes.deps.json
+C:\Code\C#PlayersGuide\Level24\Classes\bin\Debug\net7.0\Classes.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level24\Classes\bin\Debug\net7.0\Classes.dll
+C:\Code\C#PlayersGuide\Level24\Classes\bin\Debug\net7.0\Classes.pdb
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\Classes.dll
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\refint\Classes.dll
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\Classes.pdb
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\Classes.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level24\Classes\obj\Debug\net7.0\ref\Classes.dll
