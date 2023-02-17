@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\bin\Debug\net7.0\LabelingInventory.exe
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\bin\Debug\net7.0\LabelingInventory.deps.json
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\bin\Debug\net7.0\LabelingInventory.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\bin\Debug\net7.0\LabelingInventory.dll
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\bin\Debug\net7.0\LabelingInventory.pdb
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\LabelingInventory.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\LabelingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\LabelingInventory.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\LabelingInventory.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\LabelingInventory.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\LabelingInventory.dll
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\refint\LabelingInventory.dll
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\LabelingInventory.pdb
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\LabelingInventory.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level26\LabelingInventory\obj\Debug\net7.0\ref\LabelingInventory.dll
