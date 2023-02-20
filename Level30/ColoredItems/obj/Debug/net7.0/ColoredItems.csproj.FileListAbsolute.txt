@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level30\ColoredItems\bin\Debug\net7.0\ColoredItems.exe
+C:\Code\C#PlayersGuide\Level30\ColoredItems\bin\Debug\net7.0\ColoredItems.deps.json
+C:\Code\C#PlayersGuide\Level30\ColoredItems\bin\Debug\net7.0\ColoredItems.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level30\ColoredItems\bin\Debug\net7.0\ColoredItems.dll
+C:\Code\C#PlayersGuide\Level30\ColoredItems\bin\Debug\net7.0\ColoredItems.pdb
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ColoredItems.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ColoredItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ColoredItems.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ColoredItems.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ColoredItems.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ColoredItems.dll
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\refint\ColoredItems.dll
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ColoredItems.pdb
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ColoredItems.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level30\ColoredItems\obj\Debug\net7.0\ref\ColoredItems.dll
