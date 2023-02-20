@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level29\WarPreparations\bin\Debug\net7.0\WarPreparations.exe
+C:\Code\C#PlayersGuide\Level29\WarPreparations\bin\Debug\net7.0\WarPreparations.deps.json
+C:\Code\C#PlayersGuide\Level29\WarPreparations\bin\Debug\net7.0\WarPreparations.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level29\WarPreparations\bin\Debug\net7.0\WarPreparations.dll
+C:\Code\C#PlayersGuide\Level29\WarPreparations\bin\Debug\net7.0\WarPreparations.pdb
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\WarPreparations.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\WarPreparations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\WarPreparations.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\WarPreparations.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\WarPreparations.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\WarPreparations.dll
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\refint\WarPreparations.dll
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\WarPreparations.pdb
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\WarPreparations.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level29\WarPreparations\obj\Debug\net7.0\ref\WarPreparations.dll

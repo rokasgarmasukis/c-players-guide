@@ -6,6 +6,7 @@ Coordinate c = new Coordinate(0, 1);
 
 Console.WriteLine(a.IsAdjacent(b));
 Console.WriteLine(a.IsAdjacent(c));
+Console.WriteLine(a);
 
 public struct Coordinate
 {
