@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.exe
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.deps.json
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.dll
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.pdb
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.dll
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\refint\RoomCoordinates.dll
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.pdb
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level28\RoomCoordinates\obj\Debug\net7.0\ref\RoomCoordinates.dll
