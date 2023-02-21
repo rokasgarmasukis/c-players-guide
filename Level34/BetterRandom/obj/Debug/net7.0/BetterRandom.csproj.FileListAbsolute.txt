@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level34\BetterRandom\bin\Debug\net7.0\BetterRandom.exe
+C:\Code\C#PlayersGuide\Level34\BetterRandom\bin\Debug\net7.0\BetterRandom.deps.json
+C:\Code\C#PlayersGuide\Level34\BetterRandom\bin\Debug\net7.0\BetterRandom.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level34\BetterRandom\bin\Debug\net7.0\BetterRandom.dll
+C:\Code\C#PlayersGuide\Level34\BetterRandom\bin\Debug\net7.0\BetterRandom.pdb
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\BetterRandom.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\BetterRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\BetterRandom.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\BetterRandom.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\BetterRandom.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\BetterRandom.dll
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\refint\BetterRandom.dll
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\BetterRandom.pdb
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\BetterRandom.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level34\BetterRandom\obj\Debug\net7.0\ref\BetterRandom.dll
