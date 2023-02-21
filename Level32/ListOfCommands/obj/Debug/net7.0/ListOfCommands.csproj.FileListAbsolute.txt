@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\bin\Debug\net7.0\ListOfCommands.exe
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\bin\Debug\net7.0\ListOfCommands.deps.json
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\bin\Debug\net7.0\ListOfCommands.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\bin\Debug\net7.0\ListOfCommands.dll
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\bin\Debug\net7.0\ListOfCommands.pdb
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ListOfCommands.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ListOfCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ListOfCommands.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ListOfCommands.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ListOfCommands.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ListOfCommands.dll
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\refint\ListOfCommands.dll
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ListOfCommands.pdb
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ListOfCommands.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level32\ListOfCommands\obj\Debug\net7.0\ref\ListOfCommands.dll
