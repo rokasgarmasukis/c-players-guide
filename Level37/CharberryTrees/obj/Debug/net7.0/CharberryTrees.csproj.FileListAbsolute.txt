@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\bin\Debug\net7.0\CharberryTrees.exe
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\bin\Debug\net7.0\CharberryTrees.deps.json
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\bin\Debug\net7.0\CharberryTrees.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\bin\Debug\net7.0\CharberryTrees.dll
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\bin\Debug\net7.0\CharberryTrees.pdb
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\CharberryTrees.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\CharberryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\CharberryTrees.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\CharberryTrees.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\CharberryTrees.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\CharberryTrees.dll
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\refint\CharberryTrees.dll
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\CharberryTrees.pdb
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\CharberryTrees.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level37\CharberryTrees\obj\Debug\net7.0\ref\CharberryTrees.dll
