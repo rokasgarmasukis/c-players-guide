@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level36\TheSieve\bin\Debug\net7.0\TheSieve.exe
+C:\Code\C#PlayersGuide\Level36\TheSieve\bin\Debug\net7.0\TheSieve.deps.json
+C:\Code\C#PlayersGuide\Level36\TheSieve\bin\Debug\net7.0\TheSieve.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level36\TheSieve\bin\Debug\net7.0\TheSieve.dll
+C:\Code\C#PlayersGuide\Level36\TheSieve\bin\Debug\net7.0\TheSieve.pdb
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\TheSieve.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\TheSieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\TheSieve.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\TheSieve.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\TheSieve.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\TheSieve.dll
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\refint\TheSieve.dll
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\TheSieve.pdb
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\TheSieve.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level36\TheSieve\obj\Debug\net7.0\ref\TheSieve.dll
