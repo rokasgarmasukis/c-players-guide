@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level39\TheLongGame\bin\Debug\net7.0\TheLongGame.exe
+C:\Code\C#PlayersGuide\Level39\TheLongGame\bin\Debug\net7.0\TheLongGame.deps.json
+C:\Code\C#PlayersGuide\Level39\TheLongGame\bin\Debug\net7.0\TheLongGame.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level39\TheLongGame\bin\Debug\net7.0\TheLongGame.dll
+C:\Code\C#PlayersGuide\Level39\TheLongGame\bin\Debug\net7.0\TheLongGame.pdb
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\TheLongGame.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\TheLongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\TheLongGame.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\TheLongGame.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\TheLongGame.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\TheLongGame.dll
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\refint\TheLongGame.dll
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\TheLongGame.pdb
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\TheLongGame.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level39\TheLongGame\obj\Debug\net7.0\ref\TheLongGame.dll
