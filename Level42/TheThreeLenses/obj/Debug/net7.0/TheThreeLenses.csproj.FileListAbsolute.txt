@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\bin\Debug\net7.0\TheThreeLenses.exe
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\bin\Debug\net7.0\TheThreeLenses.deps.json
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\bin\Debug\net7.0\TheThreeLenses.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\bin\Debug\net7.0\TheThreeLenses.dll
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\bin\Debug\net7.0\TheThreeLenses.pdb
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\TheThreeLenses.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\TheThreeLenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\TheThreeLenses.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\TheThreeLenses.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\TheThreeLenses.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\TheThreeLenses.dll
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\refint\TheThreeLenses.dll
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\TheThreeLenses.pdb
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\TheThreeLenses.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level42\TheThreeLenses\obj\Debug\net7.0\ref\TheThreeLenses.dll
