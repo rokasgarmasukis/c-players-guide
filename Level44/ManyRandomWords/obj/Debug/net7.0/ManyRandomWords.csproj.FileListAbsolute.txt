@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\bin\Debug\net7.0\ManyRandomWords.exe
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\bin\Debug\net7.0\ManyRandomWords.deps.json
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\bin\Debug\net7.0\ManyRandomWords.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\bin\Debug\net7.0\ManyRandomWords.dll
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\bin\Debug\net7.0\ManyRandomWords.pdb
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ManyRandomWords.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ManyRandomWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ManyRandomWords.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ManyRandomWords.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ManyRandomWords.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ManyRandomWords.dll
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\refint\ManyRandomWords.dll
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ManyRandomWords.pdb
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ManyRandomWords.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level44\ManyRandomWords\obj\Debug\net7.0\ref\ManyRandomWords.dll

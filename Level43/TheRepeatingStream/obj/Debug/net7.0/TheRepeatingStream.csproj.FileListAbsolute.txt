@@ -1,0 +1,15 @@
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\bin\Debug\net7.0\TheRepeatingStream.exe
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\bin\Debug\net7.0\TheRepeatingStream.deps.json
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\bin\Debug\net7.0\TheRepeatingStream.runtimeconfig.json
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\bin\Debug\net7.0\TheRepeatingStream.dll
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\bin\Debug\net7.0\TheRepeatingStream.pdb
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\TheRepeatingStream.csproj.AssemblyReference.cache
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\TheRepeatingStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\TheRepeatingStream.AssemblyInfoInputs.cache
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\TheRepeatingStream.AssemblyInfo.cs
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\TheRepeatingStream.csproj.CoreCompileInputs.cache
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\TheRepeatingStream.dll
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\refint\TheRepeatingStream.dll
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\TheRepeatingStream.pdb
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\TheRepeatingStream.genruntimeconfig.cache
+C:\Code\C#PlayersGuide\Level43\TheRepeatingStream\obj\Debug\net7.0\ref\TheRepeatingStream.dll
