@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace FinalBattle;
 
-namespace FinalBattle
+public class Skeleton : ICharacter
 {
-    internal class Skeleton
+    public string Name { get; } = "SKELETON";
+    public void TakeTurn()
     {
+        Console.WriteLine("SKELETON did NOTHING.");
     }
 }
