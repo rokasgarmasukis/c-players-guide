@@ -3,8 +3,8 @@
 public class Skeleton : ICharacter
 {
     public string Name { get; } = "SKELETON";
-    public void TakeTurn()
+    public void TakeTurn(IAction action)
     {
-        Console.WriteLine("SKELETON did NOTHING.");
+        action.Execute(Name);
     }
 }

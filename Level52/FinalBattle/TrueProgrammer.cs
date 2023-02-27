@@ -4,9 +4,9 @@ public class TrueProgrammer : ICharacter
 {
     public string Name { get; }
 
-    public void TakeTurn()
+    public void TakeTurn(IAction action)
     {
-        Console.WriteLine($"{Name} did NOTHING");
+        action.Execute(Name);
     }
 
     public TrueProgrammer(string name)

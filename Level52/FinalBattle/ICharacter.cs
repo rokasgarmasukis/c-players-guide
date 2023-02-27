@@ -3,5 +3,5 @@
 public interface ICharacter
 {
     string Name { get; }
-    void TakeTurn();
+    void TakeTurn(IAction action);
 }
